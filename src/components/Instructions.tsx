@@ -12,7 +12,7 @@ export default function Instructions() {
               <li>A pattern dictionary CSV file containing email patterns for different companies</li>
             </ul>
           </li>
-          <li>Click "Generate Emails" to create email addresses</li>
+          <li>Click &quot;Generate Emails&quot; to create email addresses</li>
           <li>View results in the Results tab</li>
           <li>Export the generated emails as a CSV file</li>
         </ol>
